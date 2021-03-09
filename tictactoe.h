@@ -14,4 +14,5 @@ int isMachineWinner (Ttt*);
 int searchPossibilities (Ttt* t);
 void getMachineMove (Ttt*);
 void structReallocation (Ttt*);
+
 #endif /* tictactoe_h */
